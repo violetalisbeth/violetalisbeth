@@ -26,10 +26,9 @@
 
 ### **✨ About Me:**
 
-🎨 Lover of aesthetic designs and cozy vibes.  
-🌟 Exploring the intersection of creativity and technology.  
+🎨 Lover of aesthetic designs and cozy games.    
 ✨ Stardew Valley fan.
-🌟 LoL Player🎮
+🌟 LoL Player🎮.
 
 ---
 
