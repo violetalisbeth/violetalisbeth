@@ -28,7 +28,8 @@
 
 🎨 Lover of aesthetic designs and cozy vibes.  
 🌟 Exploring the intersection of creativity and technology.  
-✨ Always up for a new challenge and learning opportunity.  
+✨ Stardew Valley fan.
+🌟 LoL Player🎮
 
 ---
 
