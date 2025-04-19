@@ -23,16 +23,3 @@
 </div>
 
 ---
-
-### **✨ About Me:**
-
-🎨 Lover of aesthetic designs and cozy games.    
-✨ Stardew Valley fan.
-🌟 LoL Player🎮.
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Contact-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Contact">
-  <img src="https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</div>
