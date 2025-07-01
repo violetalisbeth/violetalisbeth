@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.imgur.com/E8ga4cR.gif" width="800" alt="Hello Kitty GIF](https://i.pinimg.com/originals/45/64/ff/4564ff35c7c6c2a3877e5b6d5ba79df9.gif)">
+  <img src="https://i.pinimg.com/originals/45/64/ff/4564ff35c7c6c2a3877e5b6d5ba79df9.gif">
 </div>
 
 ---
