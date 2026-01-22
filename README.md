@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/violetalisbeth/violetalisbeth/main/assets/violeta.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/violetalisbeth/violetalisbeth/main/assets/gif.gif" width="300"/>
 </div>
 
 </div>
