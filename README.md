@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/violetalisbeth/assets/main/assets/gif.gif" width="300"/>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=violetalisbeth&label=Visitors&color=ff69b4&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/violetalisbeth?label=Followers&style=flat-square&color=ff69b4" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Violeta 🌸🌸</h1>
 <h3 align="center">🎓 Estudiante de Ingeniería Informática | 🧪 QA & Análisis de Sistemas | 💻 Frontend & Backend</h3>
