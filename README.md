@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/56/65/b3/5665b3532994380fa683b8aa7fce370a.gif"
+       width="300"
+       referrerpolicy="no-referrer"/>
 </div>
-
 <h1 align="center">Hi 👋, I'm Violeta 🌸🌸</h1>
 <h3 align="center">🎓 Estudiante de Ingeniería Informática | 🧪 QA & Análisis de Sistemas | 💻 Frontend & Backend</h3>
 
