@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/violetalisbeth/assets/main/gif.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/violetalisbeth/assets/main/assets/gif.gif" width="300"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Violeta 🌸🌸</h1>
 <h3 align="center">🎓 Estudiante de Ingeniería Informática | 🧪 QA & Análisis de Sistemas | 💻 Frontend & Backend</h3>
+
 
 
 
@@ -21,12 +22,12 @@
 💼 **Testing con Playwright**  
 👉 https://github.com/violetalisbeth/playwright-pom-ci.git
 
----
+
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/37/8b/2a/378b2a599d56ce9974f6ff8e30fe3c4a.gif" width="200"/>
 </div>
----
+
 
 ### 🛠️ Languages and Tools ♡
 
