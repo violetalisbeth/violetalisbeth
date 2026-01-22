@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3f/62/0a/3f620a6b8d4a7d3f1c4a4c64f8c0b9a1.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/56/65/b3/5665b3532994380fa683b8aa7fce370a.gif" width="300"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Violeta 🌸🌸</h1>
@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0f/9b/3b/0f9b3b6b2a88c2d1d7a0a7f4a1b0f0c7.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/37/8b/2a/378b2a599d56ce9974f6ff8e30fe3c4a.gif" width="200"/>
 </div>
 ---
 
