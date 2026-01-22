@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/violetalisbeth/violetalisbeth/main/assets/gif.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/violetalisbeth/assets/main/gif.gif" width="300"/>
 </div>
+
 
 
 <h1 align="center">Hi 👋, I'm Violeta 🌸🌸</h1>
