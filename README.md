@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/45/64/ff/4564ff35c7c6c2a3877e5b6d5ba79df9.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/3f/62/0a/3f620a6b8d4a7d3f1c4a4c64f8c0b9a1.gif" width="300"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Violeta 🌸🌸</h1>
@@ -21,12 +21,9 @@
 
 ---
 
-### 🎀 GIFs kawaii 🎀
 <div align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
+  <img src="https://i.pinimg.com/originals/0f/9b/3b/0f9b3b6b2a88c2d1d7a0a7f4a1b0f0c7.gif" width="200"/>
 </div>
-
 ---
 
 ### 🛠️ Languages and Tools ♡
