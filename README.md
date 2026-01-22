@@ -24,8 +24,6 @@
 
 ---
 
----
-
 ### 🎓 Certificaciones
 
 #### 📘 TOEIC
@@ -34,16 +32,12 @@
 ---
 
 #### 🟣 Platzi  
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi_logo.svg" width="90"/>
-</p>
 
 - 🔐 **Curso de Ciberseguridad para Desarrollo Web (2026)**
 - 🌐 **Curso de Inglés para Ciberseguridad (2026)**
 
 ---
 
-#### 🟢 Udemy  
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" width="90"/>
 </p>
