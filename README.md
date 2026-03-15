@@ -31,7 +31,7 @@
 ### 🎓 Certificaciones
 
 #### 📘 TOEIC
-- 🇬🇧 **TOEIC – Nivel C1 (2014)**
+- 🇬🇧 **TOEIC – Nivel C1**
 
 ---
 
@@ -46,9 +46,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" width="90"/>
 </p>
 
-- 🏗️ **AutoCAD Civil 3D (2020)**
-- 🖨️ **AutoCAD con enfoque a Impresión (2020)**
-- 📐 **AutoCAD desde Cero Paso a Paso (2020)**
+- 🏗️ **AutoCAD Civil 3D**
+- 🖨️ **AutoCAD con enfoque a Impresión**
+- 📐 **AutoCAD desde Cero Paso a Paso**
 
 
 
