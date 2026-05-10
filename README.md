@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Violeta 🌸🌸</h1>
-<h3 align="center">🎓 Estudiante de Ingeniería Informática | 🧪 QA & Análisis de Sistemas | 💻 Frontend & Backend</h3>
+<h3 align="center">🎓 Estudiante de Ingeniería Informática </h3>
 
 
 
